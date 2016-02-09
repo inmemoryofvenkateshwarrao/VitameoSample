@@ -47,7 +47,7 @@ public class VideoViewDemo extends Activity {
 
 		Vitamio.isInitialized(this);
 		
-		setContentView(R.layout.videoview);
+		setContentView(R.layout.videoview1);
 
 		playfunction();	
 

@@ -65,6 +65,7 @@ public final class R {
         public static final int subtitle2=0x7f030006;
         public static final int videobuffer=0x7f030007;
         public static final int videoview=0x7f030008;
+        public static final int videoview1=0x7f030009;
     }
     public static final class raw {
         public static final int test_cbr=0x7f040000;
