@@ -11,9 +11,22 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
+        public static final int background=0x7f05000b;
+        public static final int black=0x7f050003;
+        public static final int blue=0x7f05000c;
+        public static final int darkgreen=0x7f050008;
+        public static final int disabled_text=0x7f05000e;
+        public static final int gray=0x7f050009;
+        public static final int green=0x7f050005;
+        public static final int grey=0x7f05000a;
         public static final int mediacontroller_bg=0x7f050002;
         public static final int mediacontroller_bg_pressed=0x7f050001;
+        public static final int orange=0x7f050007;
+        public static final int page_title=0x7f05000d;
+        public static final int red=0x7f050006;
         public static final int transparent=0x7f050000;
+        public static final int white=0x7f050004;
+        public static final int yellow=0x7f05000f;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
@@ -53,7 +66,10 @@ public final class R {
         public static final int subtitle_view=0x7f08000e;
         public static final int surface=0x7f08000a;
         public static final int surface_view=0x7f08000d;
+        public static final int surface_view1=0x7f080015;
         public static final int textView=0x7f080000;
+        public static final int videolin=0x7f080013;
+        public static final int videolin1=0x7f080014;
     }
     public static final class layout {
         public static final int media_metadata=0x7f030000;
